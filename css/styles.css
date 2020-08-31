@@ -75,7 +75,7 @@ p {
 
 .bottom-cloud {
   position: absolute;
-  left: 16rem;
+  left: 12rem;
   bottom: 18rem;
   height: 12rem;
 }
@@ -148,8 +148,8 @@ p {
 
 .top-cloud {
   position: absolute;
-  right: 16rem;
-  top: 3rem;
+  right: 8rem;
+  top: 2.8rem;
   height: 10rem;
 }
 
