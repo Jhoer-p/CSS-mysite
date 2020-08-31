@@ -96,6 +96,7 @@ p {
   width: 8%;
   text-decoration: none;
   font-family: 'Raleway', sans-serif;
+  font-size: 1em;
 }
 
 .presentacion {
@@ -112,7 +113,7 @@ p {
 }
 
 .rights {
-  font-size: 0.5rem;
+  font-size: 0.3em;
   font-family: adobe-garamond-pro, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   margin: 0;
   padding-top: 2.5em;
